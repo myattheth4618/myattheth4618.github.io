@@ -38,6 +38,7 @@ a {
     background-image: url("https://i.pinimg.com/originals/4c/3e/26/4c3e26cc52203045b9a20ac6c8a72494.jpg"); /* White */
     background-repeat: no-repeat;
     background-size: 1600px;
+    background-position: center;
     color: #a98e8e;
 }
 
