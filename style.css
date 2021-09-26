@@ -43,7 +43,7 @@ a {
 }
 
 .bg-2 {
-    background-color: #a98e8e; /* Blue */
+    background-color: #cd9575; /* Blue */
     color: #ffffff;
 }
 
@@ -72,7 +72,7 @@ a {
 }
 
 .con {
-    padding-top: 200px;
+    padding-top: 300px;
     padding-bottom: 200px;
 }
 
@@ -82,10 +82,23 @@ a {
     border: 0;
     border-radius: 0;
     margin-bottom: 0;
-    font-size: 12px;
+    font-size: 14px;
     letter-spacing: 5px;
+ 
+    
 }
 
 .navbar-nav li a:hover {
-    color: #a98e8e !important;
+    color: #cd9575 !important;
+}
+
+.img-fluid{
+    height: 130px;
+    position: absolute;
+    right: 400px;
+    bottom: 280px;
+}
+
+.owner-name{
+    font-size: 30px;
 }
