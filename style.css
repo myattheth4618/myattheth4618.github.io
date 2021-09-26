@@ -37,7 +37,7 @@ a {
 .bg-1 {
     background-image: url("https://i.pinimg.com/564x/49/47/5b/49475ba41efe423e3effc70423be7c3a.jpg"); /* White */
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: 1500px 100px;
     color: #a98e8e;
 }
 
