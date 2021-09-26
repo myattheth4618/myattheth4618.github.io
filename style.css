@@ -36,7 +36,8 @@ a {
 
 .bg-1 {
     background-image: url("https://i.pinimg.com/564x/d5/1e/34/d51e34b6624680c82c8cc0f072a7dd57.jpg"); /* White */
-    
+    background-repeat: no-repeat;
+    background-size: auto;
     color: #a98e8e;
 }
 
