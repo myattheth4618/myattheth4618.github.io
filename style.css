@@ -67,6 +67,11 @@ a {
 }
 
 .container-fluid {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.con {
     padding-top: 170px;
     padding-bottom: 190px;
 }
