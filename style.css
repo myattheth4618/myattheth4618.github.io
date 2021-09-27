@@ -18,7 +18,10 @@ p {
 }
 
 
-a, a:hover {
+a{
+    color: green;
+}
+    a:hover {
     color: brown;
 }
 
