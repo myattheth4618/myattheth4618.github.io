@@ -12,12 +12,24 @@ p {
     font-size: 16px;
 }
 
-a {
-    color: #a98e8e;
+.container {
+    color: white;
+    background-color: #cd9575;
 }
 
-#logo, .project-img {
+
+a, a:hover {
+    color: brown;
+}
+
+#logo{
     max-height: 300px;
+}
+
+#imgg {
+    position: absolute;
+    right: 198px;
+    bottom: 208px; 
 }
 
 #fork img{
@@ -57,12 +69,12 @@ a {
 }
 
 .bg-3 {
-    background-color: #ffffff; /* Black */
-    color: #a98e8e;
+    background-color: #964B00; /* Black */
+    color: #ffffff;
 }
 
 .bg-4 {
-    background-color: #a98e8e; /* Dark Gray */
+    background-color: #964B00; /* Dark Gray */
     color: #ffffff;
 }
 
@@ -101,4 +113,8 @@ a {
 
 .owner-name{
     font-size: 30px;
+}
+
+li {
+    font-size: 15px;
 }
