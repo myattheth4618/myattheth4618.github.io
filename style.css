@@ -14,7 +14,7 @@ p {
 
 .container {
     color: white;
-    background-color: #cd9575;
+    background-color: #6dbf63;
 }
 
 
@@ -50,15 +50,15 @@ a{
 }
 
 .bg-1 {
-    background-image: url("https://i.pinimg.com/originals/4c/3e/26/4c3e26cc52203045b9a20ac6c8a72494.jpg"); /* White */
+    background-image: url(https://i.pinimg.com/564x/55/d0/e9/55d0e94e10cbed8e68897b854dfe41ae.jpg);
     background-repeat: no-repeat;
-    background-size: 1600px;
+    background-size: 1250px;
     background-position: center;
     color: #a98e8e;
 }
 
 .bg-2 {
-    background-color: #cd9575; /* Blue */
+    background-color: #6dbf63; /* Blue */
     color: #ffffff;
 }
 
@@ -72,12 +72,12 @@ a{
 }
 
 .bg-3 {
-    background-color: #964B00; /* Black */
-    color: #ffffff;
+    background-color: #ffffff; /* Black */
+    color: #46b53a;
 }
 
 .bg-4 {
-    background-color: #964B00; /* Dark Gray */
+    background-color: #6dbf63; /* Dark Gray */
     color: #ffffff;
 }
 
@@ -99,19 +99,21 @@ a{
     margin-bottom: 0;
     font-size: 14px;
     letter-spacing: 5px;
+
  
     
 }
 
 .navbar-nav li a:hover {
-    color: #cd9575 !important;
+    color: #46b53a !important;
 }
 
 .img-fluid{
     height: 130px;
-    position: absolute;
-    right: 400px;
-    bottom: 280px;
+    /*position: absolute;*/
+    right: 660px;
+    bottom: 360px;
+    
 }
 
 .owner-name{
@@ -119,5 +121,5 @@ a{
 }
 
 li {
-    font-size: 15px;
+    font-size: 17px;
 }
