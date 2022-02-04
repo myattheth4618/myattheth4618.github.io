@@ -19,10 +19,10 @@ p {
 
 
 a{
-    color: green;
+    color: black;
 }
     a:hover {
-    color: brown;
+    color: green;
 }
 
 #logo{
